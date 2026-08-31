@@ -145,6 +145,10 @@ sync-to-global.sh               同步源码到 ~/.pi/agent（parse gate + 备�
 - 每次改 `.ts` 后必须跑 parse gate（防止半成品扩展拖垮所有新窗口）
 - 测试：`node --test tests/*.test.mjs`
 
+## 特别鸣谢
+- GPT 5.6 Terra
+- DeepSeek V4 Flash:0731
+
 ## License
 
 MIT
