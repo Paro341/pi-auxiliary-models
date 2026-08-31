@@ -148,6 +148,7 @@ sync-to-global.sh               同步源码到 ~/.pi/agent（parse gate + 备�
 ## 特别鸣谢
 - GPT 5.6 Terra
 - DeepSeek V4 Flash:0731
+- Gemma4 31B
 
 ## License
 
