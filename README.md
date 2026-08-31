@@ -146,8 +146,8 @@ sync-to-global.sh                sync source to ~/.pi/agent (parse gate + backup
 - Tests: `node --test tests/*.test.mjs`
 
 ## Special Thanks
-GPT 5.6 Terra
-DeepSeek V4 Flash:0731
+- GPT 5.6 Terra
+- DeepSeek V4 Flash:0731
 
 ## License
 
