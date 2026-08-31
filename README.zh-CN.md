@@ -1,4 +1,4 @@
-# pi-auxiliary-models（辅助模型扩展）
+# pi-auxiliary-models
 
 > 给 [Pi](https://github.com/earendil-works/pi-coding-agent) 雇两位「专职外援」：一位**看图**，一位**压长文**。只读、显式、成本可见。
 >
