@@ -145,6 +145,10 @@ sync-to-global.sh                sync source to ~/.pi/agent (parse gate + backup
 - After every `.ts` edit run the parse gate (prevents a half-written extension from breaking all new windows)
 - Tests: `node --test tests/*.test.mjs`
 
+## Special Thanks
+GPT 5.6 Terra
+DeepSeek V4 Flash:0731
+
 ## License
 
 MIT
